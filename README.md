@@ -2,6 +2,13 @@
 
 ## Languages
 
+### Clojure
+
+#### Books
+
+* [プログラミング Clojure](http://ci.nii.ac.jp/ncid/BB12526140)
+  - 数少ない Clojure 本の模様
+
 ## Topics
 
 ### Machine Learning
