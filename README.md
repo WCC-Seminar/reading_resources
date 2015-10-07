@@ -32,3 +32,12 @@
 * [自然言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
   - 言語:任意 (Python が想定)
   - 自然言語処理のお勉強用というよりは，テキスト処理とか mecab とか word2vec とかそういうのの例題x100という趣．
+  -
+
+### Image Processing
+
+#### Books
+* [実践コンピュータビジョン](http://ci.nii.ac.jp/ncid/BB12162725)
+  - 言語: Python (2.7) + OpenCV
+  - ちらっと眺めた感じ色んなトピックをしっかり扱っていてよさそう，ただやや前提知識が必要か
+
