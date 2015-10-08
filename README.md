@@ -21,6 +21,10 @@
 
 * [初めてのパターン認識](http://ci.nii.ac.jp/ncid/BB09879550)
   - 割と評判がいいっぽい
+* [入門 機械学習](http://ci.nii.ac.jp/ncid/BB11155258)
+  - [Machine learning for hackers](http://ci.nii.ac.jp/ncid/BB08836381) の訳書．
+  - 言語: R
+  - コードをまとめた [Github repo](https://github.com/johnmyleswhite/ML_for_Hackers)
 
 ### Natural Language Processing
 
