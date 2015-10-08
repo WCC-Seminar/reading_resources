@@ -44,3 +44,22 @@
   - 言語: Python (2.7) + OpenCV
   - ちらっと眺めた感じ色んなトピックをしっかり扱っていてよさそう，ただやや前提知識が必要か
 
+## Computer Science
+
+\# ここ全体に分類が怪しい
+
+### 意味論
+
+#### Books
+* [プログラミング理論の基礎概念](http://www.saiensu.co.jp/?page=book_details&ISBN=ISBN978-4-7819-1285-1)
+  - 言語: ML/OCaml (議論の題材として)
+  - 導出システム，操作的意味論，型システム
+* [The Formal Semantics of Programming Languages](https://mitpress.mit.edu/books/formal-semantics-programming-languages)
+  - 意味論をしっかりやるなら
+
+### 色々
+
+#### Books
+* [アンダースタンディング コンピュテーション――単純な機械から不可能なプログラムまで](http://www.oreilly.co.jp/books/9784873116976/)
+  - 言語: Ruby (1.9/2.0)
+  - 意味論，オートマトン，チューリングマシン，ラムダ計算・コンビネータ，決定性とかそのへんを一巡りと行った感じ
