@@ -8,6 +8,7 @@
 
 * [プログラミング Clojure](http://ci.nii.ac.jp/ncid/BB12526140)
   - 数少ない Clojure 本の模様
+* [Clojure for the Brave and True](http://www.braveclojure.com/)
 
 ## Topics
 
